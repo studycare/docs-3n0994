@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-rpo05t.powertrack.shop/sitemap.xml
